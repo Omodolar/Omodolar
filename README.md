@@ -25,4 +25,4 @@ security, embedding secure practices into code, pipelines and cloud infrastructu
 **Automation:** Python · Bash · Terraform · GitHub Actions · 
 
 ## 📫 Connect
-[LinkedIn](add-your-link)
+[X](https://x.com/Dolapo512)
