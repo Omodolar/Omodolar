@@ -17,12 +17,5 @@ security, embedding secure practices into code, pipelines and cloud infrastructu
 - Cloud Security
 - Identity Protection
 
-## 🧰 Tools & Tech
-**Languages:** Python · JavaScript · Bash · HTML · CSS
-**Frameworks & Libraries:** React · Next.js · Bootstrap
-**Cloud:** AWS · Azure · GCP
-**Security:** Burp Suite Tenable, Defender for Cloud
-**Automation:** Python · Bash · Terraform · GitHub Actions · 
-
 ## 📫 Connect
 [X](https://x.com/Dolapo512)
